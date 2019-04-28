@@ -127,6 +127,16 @@
 		radarType = 4;
 		enableManualFire = 0;
 		
+		canFloat = 1;
+		waterLeakiness = 0.050000001;
+		maxFordingDepth = 2.5;
+		waterResistanceCoef = 1;
+		waterResistance = 10;
+		waterLinearDampingCoefY = 5;
+		waterLinearDampingCoefX = 2;
+		waterAngularDampingCoef = 5;
+		waterDamageEngine = 0.2;
+		
 		threat[] = {0.8,1,0.6};
 		
 		driverLeftHandAnimName = "lever_pilot";
